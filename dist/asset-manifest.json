@@ -1,0 +1,21 @@
+{
+  "/vendors.css": "/vendors.69dbd195.chunk.css",
+  "/vendors.js": "/vendors.492a51e8.async.js",
+  "/layouts__BasicLayout.css": "/layouts__BasicLayout.947b8259.chunk.css",
+  "/layouts__BasicLayout.js": "/layouts__BasicLayout.dba12608.async.js",
+  "/layouts__SecurityLayout.js": "/layouts__SecurityLayout.4d71ee49.async.js",
+  "/layouts__UserLayout.css": "/layouts__UserLayout.c1f27304.chunk.css",
+  "/layouts__UserLayout.js": "/layouts__UserLayout.f6eb164f.async.js",
+  "/p__404.js": "/p__404.4eec4137.async.js",
+  "/p__user__login.css": "/p__user__login.c8386420.chunk.css",
+  "/p__user__login.js": "/p__user__login.79199b6c.async.js",
+  "/umi.css": "/umi.3be262a1.css",
+  "/umi.js": "/umi.6e41ad3f.js",
+  "/.DS_Store": "/.DS_Store",
+  "/favicon.png": "/favicon.png",
+  "/home_bg.png": "/home_bg.png",
+  "/index.html": "/index.html",
+  "/pro_icon.svg": "/pro_icon.svg",
+  "/static/avatar.png": "/static/avatar.e147bdeb.png",
+  "/static/UserLayout.less": "/static/logo.27a884c0.jpg"
+}
